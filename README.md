@@ -4,6 +4,8 @@ O intuito desse projeto é praticar a validação de formulários em React de ma
 
 </br>
 
+![Formulários - Validação Avançada](/src/assets/project.png 'Formulários - Validação Avançada')
+
 ## Tecnologias utilizadas no projeto:
 
 - ViteJS (boilerplate w/ TypeScript)
