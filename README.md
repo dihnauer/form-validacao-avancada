@@ -4,8 +4,6 @@ O intuito desse projeto é praticar a validação de formulários em React de ma
 
 </br>
 
-![Formulários - Validação Avançada](/src/assets/project.png 'Formulários - Validação Avançada')
-
 ## Tecnologias utilizadas no projeto:
 
 - ViteJS (boilerplate w/ TypeScript)
@@ -13,3 +11,9 @@ O intuito desse projeto é praticar a validação de formulários em React de ma
 - React Hook Form
 - HookForm Resolvers
 - Zod
+
+</br>
+
+## [Preview](https://form-validacao-avancada.vercel.app/)
+
+<img src="./src/assets/project.png" width="500" />
